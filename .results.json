@@ -5,9 +5,9 @@
     "passes": 9,
     "pending": 0,
     "failures": 0,
-    "start": "2022-04-07T05:20:42.892Z",
-    "end": "2022-04-07T05:20:44.606Z",
-    "duration": 1714
+    "start": "2022-04-11T09:22:40.410Z",
+    "end": "2022-04-11T09:22:42.653Z",
+    "duration": 2243
   },
   "tests": [
     {
@@ -34,7 +34,7 @@
     {
       "title": "does not allow rides over 2500 feet",
       "fullTitle": "index.js scuberGreetingForFeet() does not allow rides over 2500 feet",
-      "duration": 0,
+      "duration": 1,
       "currentRetry": 0,
       "err": {}
     },
@@ -101,7 +101,7 @@
     {
       "title": "does not allow rides over 2500 feet",
       "fullTitle": "index.js scuberGreetingForFeet() does not allow rides over 2500 feet",
-      "duration": 0,
+      "duration": 1,
       "currentRetry": 0,
       "err": {}
     },
